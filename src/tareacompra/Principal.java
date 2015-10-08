@@ -42,7 +42,7 @@ public class Principal {
                         System.out.println("No se encontro el registro.");
                     } else {
                         
-                        System.out.println("valor cedula = ") + reg.ManejaRegistros(0);
+                        //System.out.println("valor cedula = ") + reg.ManejaRegistros(0);
                                 
 
                         
