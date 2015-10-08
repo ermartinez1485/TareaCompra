@@ -20,7 +20,7 @@ public class Principal {
             System.out.println("2) Buscar registro");
             System.out.println("3) Salir");
             opcion = teclado.nextInt();
-            teclado.skip("\n");
+            teclado.skip("\n"); 
 
             switch (opcion) {
                 case 1:
